@@ -3,7 +3,7 @@
 ![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
 <br />
 <br />
-<h1 align="center">Bonjour 👋, je suis Bary RASOLOMANANA</h1>
+<h1 align="center">Bonjour 👋, je suis Bary</h1>
 <h3 align="center">Ergonome cognitive de formation et maintenant développeur front-end, deux compétences en une pour créer une expérience à l’attente des utilisateurs.</h3>
 <br />
 <br />
