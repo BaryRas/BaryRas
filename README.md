@@ -23,8 +23,6 @@
 
 - 📫 Comment me joindre **ras.devfront@gmail.com**
 
-- ⚡ Fait amusant **🙈 Je ne sais pas draguer 🙈**
-
 <h3 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Restons en contact:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/bary-ras" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="bary-ras" /></a>
